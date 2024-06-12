@@ -1,2 +1,2 @@
-# RaiseTech-live2-20240612
+# lecture02.md
 AWS第2回 課題提出用
